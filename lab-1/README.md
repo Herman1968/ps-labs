@@ -59,7 +59,7 @@
   - через URL  
     ![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
   - через локальний шлях  
-    ![alt text](./pictures/logo-lit.jpg "ІТ Коледж")
+    ![alt text](./pictures/logo.png "ІТ Коледж")
 
 ---
 
